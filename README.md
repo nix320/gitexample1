@@ -1,2 +1,2 @@
 # gitexample1
-This is another text example.
+This is some new text.
